@@ -1,0 +1,131 @@
+---
+identifier: "Helsingin HO 11.3.2024 386"
+court: "Hovioikeudet"
+kind: "2024"
+docket: "R 22/2502"
+decided: "2024-03-11"
+keywords: "Oikeudenkäyntimenettely , "
+source_url: "https://www.finlex.fi/fi/oikeuskaytanto/hovioikeudet/2024/helsinki/386"
+source: "Finlex (www.finlex.fi), Ministry of Justice of Finland"
+licence: "CC BY 4.0"
+source_retrieved: "2026-11-07"
+---
+
+# Helsingin HO 11.3.2024 386
+
+## Suomeksi
+
+Syyttäjä oli nimennyt rikosasiassa todisteiksi SkyECC-viestejä, joista suuri osa oli saatu viranomaisten haltuun Ranskassa viestien suojauksen murtamisen jälkeen. Todisteet oli toimitettu Suomeen eurooppalaisen tutkintamääräyksen nojalla.
+
+Hovioikeus katsoi, että SkyECC-viestejä ei ollut hankittu lainvastaisesti eikä niitä tullut asettaa hyödyntämiskieltoon.
+
+OK 17 luku 25 § 3 mom
+
+SELOSTUS ASIASTA
+
+Vaatimukset ja vastaukset Helsingin käräjäoikeudessa
+Syyttäjä vaati, että A, B, C, D, E, F, G, H, I, J, K ja L tuomitaan rangaistukseen rikoksista, joissa oli kysymys muun ohella törkeistä huumausainerikoksista, avunannosta törkeisiin huumausainerikoksiin, törkeistä ampuma-aserikoksista ja ampuma-aserikoksesta.
+A, B, C, D, E, F, G, H, I, J, K ja L vastustivat syyttäjän rangaistusvaatimuksia.
+K vaati, että käräjäoikeus määrää hyödyntämiskieltoon SkyECC-viestit, joissa toisena osapuolena oli userIdentifier ST05YL (käyttäjätunnus ”Adv-Advokat”) mutta joissa ei näkynyt tämän käyttäjätunnuksen viestin sisältöä.
+Perusteinaan K lausui, että SkyECC-viestit olivat telekuuntelulla hankittuja todisteita. Telekuuntelulle ei ollut ollut tuomioistuimen lupaa, ja sitä olivat tehneet jotkut ulkomaalaiset tahot. Lainvastaisesti hankittujen todisteiden käyttäminen todisteena vaaransi K:n oikeuden oikeudenmukaiseen oikeudenkäyntiin. Viesteistä puuttuivat rikoksesta epäillyn omat viestit, mikä mahdollisti virheellisen spekulaation ja esti tehokkaan puolustautumisen.
+E, F, G, I ja J vaativat, että käräjäoikeus määrää hyödyntämiskieltoon eurooppalaisella tutkintamääräyksellä saadun aineiston.
+Perusteinaan E, F, G, I ja J lausuivat, että Suomen valtio ei voinut antaa eurooppalaista tutkintamääräystä, kun se oli tietoinen siitä, että toimissa ei noudatettu Euroopan ihmisoikeussopimuksen vähimmäisvaatimuksia ja siten Euroopan unionin oikeudessa edellytettyä suojelun vähimmäistasoa. Suomessa annettuun eurooppalaiseen tutkintamääräykseen ei ollut saanut hakea muutosta, eikä jälkikäteen säädettyä oikeussuojakeinoa ollut pidettävä riittävänä. Aineistossa oli kysymys yksityisyyden ja viestinnän suojan alaisesta aineistosta. Valtio ei saanut käyttää hyväkseen vastavuoroisen tunnustamisen järjestelmää. Laittomasti hankittu aineisto ei ollut muuttunut lailliseksi sillä perusteella, että se oli hankittu Suomeen toisesta valtiosta eurooppalaisella tutkintamääräyksellä.
+Syyttäjä vaati, että hyödyntämiskieltoon asettamista koskevat vaatimukset hylätään.
+
+Käräjäoikeuden päätös 17.11.2021 nro 3847
+Käräjäoikeus totesi, että tiedot SkyECC-viesteistä oli saatu Ranskan tuomioistuimen antamalla luvalla sen jälkeen, kun viranomaisten hallussa olleen palvelimen suojaus oli murrettu. Pyyntö oli perustunut eurooppalaiseen tutkintamääräykseen todisteiden hankkimisesta. Pyyntö oli tehty valtiolle, jonka hallussa viestit olivat olleet ja jonka toimivaltaan pyynnön täytäntöönpano oli kuulunut. Todisteiden ei siten voitu katsoa saadun haltuun laittomasti. Todisteiden luotettavuuteen liittyneet väitteet koskivat vapaan todistusharkinnan ydinaluetta. Todistelua ei voitu evätä, vaikka viesteihin liittyisi K:n viittaamia seikkoja.
+Käräjäoikeus hylkäsi K:n vaatimuksen asettaa hyödyntämiskieltoon SkyECC-viestejä.
+
+Käräjäoikeuden päätös 19.1.2022 nro 182
+Käräjäoikeus totesi, että eurooppalaisella tutkintamääräyksellä oli pyydetty viranomaisten hallussa jo ollutta aineistoa. Euroopan unionin tuomioistuimen Gavanozov-tuomiossa ei ollut käsitelty kysymystä, tuliko muutoksenhakuoikeuden koskea myös jo olemassa olevan aineiston pyytämistä. Tuomiosta ei sen vuoksi voitu katsoa seuraavan, että myös jo olemassa olevaa aineistoa koskevaan eurooppalaiseen tutkintamääräykseen tulisi voida hakea muutosta. Lisäksi E:llä, F:llä, G:llä, I:llä ja J:llä oli edelleen mahdollisuus laissa säädetyn määräajan kuluessa saattaa asiassa annettujen eurooppalaisten tutkintamääräysten edellytykset käräjäoikeuden tutkittavaksi, sillä heidän oli katsottava saaneen tiedon tutkintamääräyksistä viimeistään kysymyksessä olevan asian pääkäsittelyssä.
+
+                            Käräjäoikeus hylkäsi
+
+                            E:n, F:n, G:n, I:n ja J:n vaatimukset asettaa hyödyntämiskieltoon eurooppalaisella tutkintamääräyksellä saadun aineiston.
+
+Käräjäoikeuden tuomio 13.10.2022 nro 140296
+Käräjäoikeus tuomitsi A:n rangaistukseen kolmesta törkeästä huumausainerikoksesta, B:n törkeästä huumausainerikoksesta ja avunannosta törkeään huumausainerikokseen, C:n kolmesta törkeästä huumausainerikoksesta, D:n kolmesta törkeästä huumausainerikoksesta, kahdesta avunannosta törkeään huumausainerikokseen ja kahdesta lääkerikoksesta, E:n viidestä törkeästä huumausainerikoksesta ja kahdesta avunannosta törkeään huumausainerikokseen, F:n neljästä törkeästä huumausainerikoksesta, kahdesta salakuljetuksesta ja ampuma-aserikoksesta, G:n kuudesta törkeästä huumausainerikoksesta, kahdesta lääkerikoksesta ja ampuma-aserikoksesta, H:n törkeästä ampuma-aserikoksesta, I:n seitsemästä avunannosta törkeään huumausainerikokseen ja ampuma-aserikoksesta, J:n törkeästä huumausainerikoksesta ja avunannosta törkeään huumausainerikokseen, K:n törkeästä huumausainerikoksesta ja avunannosta törkeään huumausainerikokseen sekä L:n avunannosta huumausainerikokseen ja huumausaineen käyttörikoksesta.
+Asian ovat käräjäoikeudessa ratkaisseet käräjätuomarit Airi Jousila ja Hanna Holst sekä lautamiehet.
+
+ASIAN KÄSITTELY HELSINGIN HOVIOIKEUDESSA
+Syyttäjä sekä A, B, C, D, E, F, G, H, I, J, K ja L hakivat muutosta käräjäoikeuden tuomioon. E, I ja J hakivat muutosta myös käräjäoikeuden päätökseen 19.1.2022.
+Hovioikeus päätti toimittaa asiassa pääkäsittelyn ajalla 4.3.–27.5.2024.
+A, B, C, F, H ja L vaativat, että SkyECC-viestit asetetaan hyödyntämiskieltoon.
+D vaati, että SkyECC- ja Anom-viestit asetetaan hyödyntämiskieltoon.
+E ja I vaativat, että käräjäoikeuden päätös 19.1.2022 kumotaan ja SkyECC-todistelu asetetaan hyödyntämiskieltoon.
+J vaati, että käräjäoikeuden päätös 19.1.2022 kumotaan ja eurooppalaisella tutkintamääräyksellä saatu aineisto asetetaan hyödyntämiskieltoon.
+K vaati, että sellaiset SkyECC-viestit asetetaan hyödyntämiskieltoon, joissa toisena osapuolena on userIdentifier ST05YL (käyttäjätunnus ”Adv-Advokat”) mutta joissa ei näy tämän käyttäjätunnuksen viestien sisältöä.
+Perusteinaan A, B, C, D, E, F, H, I, J, K ja L vetosivat käräjäoikeudessa hyödyntämiskieltovaatimusten tueksi esitettyyn ja lausuivat lisäksi muun ohella, että tiedon hankintaan oli ryhdytty ilman konkreettista rikosepäilyä. SkyECC-sovelluksen palvelimesta saatu tieto oli ollut viestien massavalvontaa. Viestien hankkimisella oli puututtu yksityiselämän ja luottamuksellisen viestin suojaan, eikä telekuuntelulle ollut ollut suomalaisen tuomioistuimen lupaa. Kansainvälisellä viranomaisyhteistyöllä ei saanut kiertää pakkokeinojen käytön edellytyksiä. Viestien hyödyntäminen todisteena vaaransi oikeudenmukaisen oikeudenkäynnin toteutumisen.
+Syyttäjä vaati, että hyödyntämiskieltoon asettamista koskevat vaatimukset hylätään.
+Hovioikeus julisti pääkäsittelyssä 11.3.2024 päätöksen asiassa esitetyistä hyödyntämiskieltovaatimuksista.
+
+HELSINGIN HOVIOIKEUDEN PÄÄTÖS 11.3.2024
+Perustelut
+1. Hyödyntämiskieltoa koskevista säännöksistä
+Näytön esittämistä ja hyödyntämistä oikeudenkäynnissä koskevat pääsäännöt ilmenevät oikeudenkäymiskaaren 17 luvun 1 §:stä. Sen mukaan asianosaisella on oikeus esittää haluamansa näyttö tuomioistuimelle sekä lausua jokaisesta tuomioistuimessa esitetystä todisteesta, jollei laissa toisin säädetä. Tuomioistuimen on esitettyjä todisteita ja muita asian käsittelyssä esiin tulleita seikkoja harkittuaan päätettävä, mitä asiassa on näytetty tai jäänyt näyttämättä. Tuomioistuimen on perusteellisesti ja tasapuolisesti arvioitava todisteiden ja muiden seikkojen näyttöarvo vapaalla todistusharkinnalla, jollei laissa toisin säädetä.
+Lainvastaisesti hankittujen todisteiden hyödyntämisestä säädetään oikeudenkäymiskaaren 17 luvun 25 §:ssä. Pykälän 1 ja 2 momentissa säädetään kiduttamalla tai niin sanotun itsekriminointisuojan vastaisesti saatuja todisteita koskevista ehdottomista hyödyntämiskielloista, joista ei tässä asiassa ole kysymys. Sovellettavaksi tulee sen sijaan pykälän 3 momentin yleissäännös. Sen mukaan muussa tapauksessa tuomioistuin saa hyödyntää myös lainvastaisesti hankittua todistetta, jollei hyödyntäminen vaaranna oikeudenmukaisen oikeudenkäynnin toteutumista ottaen huomioon asian laatu, todisteen hankkimistapaan liittyvä oikeudenloukkauksen vakavuus, hankkimistavan merkitys todisteen luotettavuudelle, todisteen merkitys asian ratkaisemisen kannalta ja muut olosuhteet.
+Oikeudenkäymiskaaren 17 luvun 25 §:n 3 momentti koskee perusteluidensa (HE 46/2014 vp s. 92–93) mukaan lähtökohtaisesti kaikkia lainvastaisesti saatuja todisteita. Lainvastaisuuteen sisältyvälle käsitteelle laki tulee perusteluiden mukaan antaa momenttia tulkitessa laaja merkitys vastaavalla tavalla kuin oikeudenkäymiskaaren 31 luvussa säädettyä purkuperustetta väärä lain soveltaminen on tulkittu. Käsitteen piiriin kuuluvat siten paitsi eduskuntalait myös alemman asteiset kansalliset säädökset, EU-lainsäädäntö ja Suomea sitovat kansainväliset sopimukset.
+Euroopan ihmisoikeustuomioistuin on käytännössään katsonut, että lainvastaisesti hankitun todistusaineiston hyödyntäminen ei tiettyjä vakavia oikeudenloukkauksia, kuten kidutusta, lukuun ottamatta ole Euroopan ihmisoikeussopimuksen 6 artiklan vastaista, jos menettely kokonaisuudessaan täyttää oikeudenmukaisen oikeudenkäynnin vaatimukset (ks. esimerkiksi Schenk v. Sveitsi (täysistunto) 12.7.1988, Khan v. Yhdistynyt kuningaskunta 12.5.2000, P.G. ja J.H. v. Yhdistynyt kuningaskunta 25.9.2001, Allan v. Yhdistynyt kuningaskunta 5.11.2002 ja Gäfgen v. Saksa (suuri jaosto) 1.6.2010). Jos todisteen sisältämän tiedon hankkimiseen liittyy vakava oikeudenloukkaus, todisteen käytön kieltäminen voi tulla tapauskohtaisesti kysymykseen.
+Korkein oikeus on ratkaisussaan KKO 2023:14 arvioinut, oliko hyödyntämiskieltoon asetettava FBI:n peiteoperaatiossa niin sanotuista Anom-puhelimista saadut viestit, joiden lähettäjät ja vastaanottajat olivat olleet Suomessa. FBI oli saanut viestit haltuunsa tallentamalla Anom-sovelluksen avulla lähetetyt viestit salaiselle palvelimelle, joka oli sijainnut jossakin tuntemattomaksi jääneessä valtiossa. FBI ei ollut pyytänyt suomalaisilta viranomaisilta oikeusapua todisteiden hankkimisessa eikä asiassa ollut saatu tai haettu pakkokeinolain mukaista lupaa salaisen pakkokeinon käyttöön. Todisteet oli kuitenkin saatu Suomeen lainmukaista menettelyä noudattamalla ensin FBI:n oma-aloitteisesti toimittamina. Sittemmin viestien käyttämiseen todisteena oli oikeusaputeitse pyydetty ja saatu suostumus Yhdysvalloista.
+Korkein oikeus katsoi, että viestien hankkiminen ei ollut tapahtunut minkään kansallisen lain nojalla ja ne oli siten hankittu oikeudenkäymiskaaren 17 luvun 25 §:n 3 momentissa tarkoitetulla tavalla lainvastaisesti. Arvioon ei vaikuttanut se, miten viestit oli niiden hankkimisen jälkeen saatu Suomeen tai miten viestien hankkimismenettelyä oli mahdollisesti Yhdysvalloissa arvioitava. Viestien asettamiselle hyödyntämiskieltoon ei kuitenkaan ollut perusteita, koska asiassa ei ollut ilmennyt sellaisia seikkoja, joiden perusteella Anom-viestien hyödyntäminen todisteena olisi vaarantanut oikeudenmukaisen oikeudenkäynnin.
+2. Eurooppalaista tutkintamääräystä koskevasta sääntelystä
+
+                            Edellä todetusti todisteiden hankkimismenettelyn lainvastaisuutta arvioitaessa on otettava huomioon myös EU-lainsäädäntö ja Suomea sitovat kansainväliset sopimukset. Asiassa on väitetty, että SkyECC-viestien hankinnassa olisi loukattu yksityiselämän ja luottamuksellisen viestin suojaa ja että
+
+                            kansainvälisellä viranomaisyhteistyöllä ei voitu kiertää pakkokeinojen käytön edellytyksiä. Lisäksi vastaajien puolesta on esitetty muun ohella, että Suomen lain mukaan eurooppalaiseen tutkintamääräykseen ei ollut aiemmin voinut hakea muutosta eikä jälkikäteistä muutoksenhakumahdollisuutta voitu pitää riittävänä. Näiden väitteiden vuoksi hovioikeus toteaa eurooppalaisesta tutkintamääräyksestä seuraavaa.
+
+Eurooppalaisesta tutkintamääräyksestä säädetään Euroopan parlamentin ja neuvoston direktiivissä 2014/41/EU (direktiivi). Direktiivi on Suomessa pantu täytäntöön lailla 430/2017 (tutkintamääräyslaki). Tutkintamääräyslain 1 §:n 1 momentin mukaan direktiivin lainsäädännön alaan kuuluvat säännökset ovat lakina noudatettavia, jollei tästä laista muuta johdu.
+Direktiivin 1 artiklan 1 kohdan mukaan eurooppalainen tutkintamääräys on jäsenvaltion oikeusviranomaisen antama tai vahvistama päätös, jonka tarkoituksena on, että toisessa jäsenvaltiossa suoritetaan yksi tai useampi yksittäinen tutkintatoimenpide tarkoituksin hankkia todisteita tämän direktiivin mukaisesti. Eurooppalainen tutkintamääräys voidaan antaa myös sellaisten todisteiden hankkimiseksi, jotka jo ovat täytäntöönpanovaltion toimivaltaisten viranomaisten hallussa.
+Saman artiklan 2 kohdan mukaan jäsenvaltioiden on pantava eurooppalainen tutkintamääräys täytäntöön vastavuoroisen tunnustamisen periaatteen pohjalta ja tämän direktiivin mukaisesti.
+Direktiivin 6 artiklan 1 kohdan mukaan eurooppalainen tutkintamääräys voidaan antaa, jos tutkintamääräyksen antaminen on välttämätöntä ja oikeassa suhteessa 4 artiklassa tarkoitettujen menettelyjen tarkoitukseen nähden ottaen huomioon epäillyn tai syytteessä olevan henkilön oikeudet (a alakohta) ja jos tutkintamääräyksessä mainittu tutkintatoimenpide olisi voitu määrätä samoin edellytyksin vastaavassa kansallisessa tapauksessa (b alakohta).
+Direktiivin 14 artiklan 2 kohdan mukaan eurooppalaisen tutkintamääräyksen antamisen aineelliset perusteet on mahdollista riitauttaa vain nostamalla kanne määräyksen antaneessa valtiossa, sanotun kuitenkaan rajoittamatta perusoikeuksien turvaamista täytäntöönpanovaltiossa.
+Tutkintamääräyslain 23 a §:n 1 momentin mukaan sen vaatimuksesta, jota syyttäjän antama tai vahvistama tutkintamääräys koskee, käräjäoikeuden on tutkittava, ovatko edellytykset tutkintamääräyksen antamiselle olemassa. Vaatimus on tehtävä 60 päivän kuluessa siitä, kun henkilön on katsottava saaneen tiedon tutkintamääräyksestä.
+Viimeksi mainittua säännöstä koskevan siirtymäsäännöksen mukaan, jos tutkintamääräys on annettu ennen tämän lain voimaantuloa eikä rikosasiaa ole lainvoimaisesti ratkaistu ennen lain voimaantuloa, 23 a §:n 1 momentissa tarkoitettu 60 päivän määräaika alkaa päivästä, jona tämä laki tuli voimaan, jos henkilön on katsottava lain voimaan tullessa jo saaneen tiedon tutkintamääräyksestä.
+Viitatussa tuomiossa (73 kohta) on edelleen todettu, että eurooppalainen tutkintamääräys voi kattaa kaikki tutkintatoimenpiteet erityisesti rikosoikeudellisia menettelyjä varten. Eräät näistä toimenpiteistä voivat olla yksityisyyteen puuttuvia, koska ne merkitsevät muun muassa kyseessä olevan henkilön yksityiselämää koskevan oikeuden tai omaisuudensuojan loukkausta. Toisin kuin eurooppalainen pidätysmääräys, eurooppalainen tutkintamääräys ei kuitenkaan ole omiaan loukkaamaan asianomaisen henkilön perusoikeuskirjan 6 artiklassa vahvistettua oikeutta vapauteen lukuun ottamatta direktiivin 22 ja 23 artiklassa mainittuja erityistilanteita, joita varten artikloissa on omat erityiset oikeussuojatakeet.
+Eurooppalaisen pidätysmääräyksen osalta unionin tuomioistuin on puolestaan katsonut (tuomio 13.1.2021, MM, C-414/20 PPU, EU:C:2021:4, 65 ja 69 kohta), ettei tuomioistuimen edellytetä osallistuvan eurooppalaisen pidätysmääräyksen antamiseen, vaan riittävänä oikeussuojakeinona on pidettävä myös pidätysmääräyksen perusteiden jälkikäteistä riitauttamista tuomioistuimessa.
+3. SkyECC-viestien hankinnasta esitetty selvitys
+3.1 Suomessa tapahtunut laite-etsintä
+Syyttäjän mukaan kaikkia SkyECC-viestejä ei ole saatu ulkomailta, vaan niitä oli saatu haltuun myös Suomessa tapahtuneen laite-etsinnän seurauksena.
+Esitutkintapöytäkirjasta 2400/R/115/21 ilmenevien tietojen mukaan G:n, X:n ja D:n SkyECC-puhelimet on takavarikoitu Suomessa tammi-, helmi- ja huhtikuussa 2021. Osa kirjalliseksi todisteluksi nimetystä SkyECC-materiaalista on saatu haltuun suomalaisten viranomaisten näihin puhelimiin kohdistaman laite-etsinnän perusteella.
+3.2 SkyECC-viestien hankintatapa Ranskassa
+Syyttäjän mukaan ulkomailta saadut SkyECC-viestit on saatu Ranskassa viranomaisten haltuun asianmukaisesti tuomioistuimen päätöksellä.
+Väitteensä tueksi syyttäjä on esittänyt selvityksenä muun ohella ranskalaisen päätöksen 14.6.2019 (asiakirja D10). Kyseessä on pakkokeinoasioista vastaavan tuomarin päätös, jolla on annettu syyttäjän vastauksessa viitattu lupa valvoa, tallentaa ja litteroida sähköisiä viestejä. Lupa on annettu verkkorikollisuuden torjunnasta vastaavaa keskusvirastoa johtavalle komisariolle ja kaikille hänen alaisuudessaan toimiville rikospoliiseille, joita rikoskonstaapelit tarvittaessa avustavat. Määräys on ollut voimassa yhden kuukauden ajan, ja sen mukaan kaikki toimenpiteet oli toteutettava luvan antaneen tuomarin valvonnassa.
+Ranskalaisesta päätöksestä 22.7.2019 (asiakirja D14) ilmenee, että pakkokeinoasioista vastaava tuomari on antanut luvan jatkaa aiemmassa päätöksessä tarkoitettua valvontaa, tallentamista ja litterointia. Päätöksestä ilmenee myös, että aiemman päätöksen perusteella oli kyetty vahvistamaan SkyECC-salausratkaisun massiivinen käyttö ja hahmottamaan sen arkkitehtuuri.
+Asiakirjosta D209 ja D212 ilmenee, että ranskalainen tutkinnasta vastaava tuomari on 17.12.2020 antanut luvan ottaa käyttöön datan sieppaamiseen tarkoitetun laitteen ja 24.2.2021 luvan ottaa käyttöön toisen samanlaisen laitteen. Molemmissa asiakirjoissa on todettu, että sieppauslaitteen käyttöönotto oli välttämätöntä yksittäisten viestien salauksen murtamiseksi.
+Kaikissa edellä mainituissa asiakirjoissa on viitattu muun ohella järjestäytyneeseen rikollisuuteen ja huumausaineiden laittomaan kauppaan.
+Ranskassa tapahtuneesta menettelystä syyttäjä on esittänyt selvityksenä myös muita asiakirjoja (asiakirjat D183–D216). Kyseiset asiakirjat ilmentävät sitä, että tutkinta Ranskassa on edennyt tuomarin päätöksillä ja valvonnassa. Asiakirjat viittaavat siihen, ettei SkyECC-viestejä ole kyetty tallentamaan ja litteroimaan vielä 14.6.2019 tehdyn päätöksen perusteella vaan viestijärjestelmän salauksen murtaminen on tapahtunut erilaisten, aikaa vieneiden toimenpiteiden seurauksena. Yksittäisten viestien salauksen purkamiseksi oli pitänyt tehdä toimenpiteitä vielä vuoden 2021 alussa.
+3.3 Ranskassa haltuun saadun aineiston toimittaminen Suomeen
+Syyttäjän mukaan Ranskassa haltuun saadut SkyECC-viestit on toimitettu Suomen viranomaisille asianmukaisten eurooppalaisten tutkintamääräysten perusteella. Väitteensä tueksi syyttäjä on esittänyt selvitystä, jonka mukaan Suomen viranomaiset ovat lähettäneet Ranskan viranomaisille eurooppalaisia tutkintamääräyksiä ja saaneet niihin vastauksia.
+Selvityksenä on esitetty muun muassa ranskalaisen tutkinnasta vastaavan tuomarin lupa 18.4.2023 (todiste 997A). Siinä on viitattu useisiin aiemmin täytäntöön pantuihin tutkintamääräyksiin, jotka on yksilöity. Asiakirjasta ilmenee, että tutkintatuomari on antanut suomalaisille viranomaisille luvan liittää oikeudelliseen menettelyyn aiempien oikeusapupyyntöjen välityksellä toimitetut tiedot, jotka liittyvät pyyntöjen sisältämiin tunnisteisiin. Luvassa on yksilöity muun ohella tunnisteet 8H7RVI, – – ja ST05YL.
+Asian aineistosta ilmenee, että edellä yksilöidyt tunnisteet viittaavat nimimerkkeihin ”Adv-Advokat”, – – ja ”Wildchild2”. Luvassa 18.4.2023 (todiste 997A) viitatuilla eurooppalaisilla tutkintamääräyksillä Suomeen toimitettu aineisto on siis koskenut ainakin näitä nimimerkkejä.
+
+                            Selvityksenä on esitetty myös alkuperäisiä Suomesta Ranskaan toimitettuja eurooppalaisia tutkintamääräyksiä ja niihin saatuja vastauksia. Esimerkiksi tutkintamääräyksessä 23.4.2021 (mm. todiste 946) on todettu, että poliisin saamien tietojen mukaan seuraavat SkyECC-tunnukset ja
+
+                            -nimimerkit olivat olleet mukana järjestäytyneessä rikollisuudessa: 5FPI69 ”Carlos”, – – ja YA0Q87 ”Bernie1”. Tutkintamääräyksellä on pyydetty tietoja, ja siihen on merkitty, että pyydettynä toimenpiteenä oli sellaisten tietojen tai todisteiden hankkiminen, jotka jo olivat täytäntöönpanoviranomaisen eli Ranskan viranomaisten hallussa. Mainitun tutkintamääräyksen osalta ranskalainen tutkinnasta vastaava tuomari on 28.5.2021 antanut päätöksen, jonka mukaan oikeusapupyynnön puitteissa lähetettyjä tietoja voidaan käyttää kaikissa Suomen viranomaisten suorittamissa rikostutkinnoissa ja syyte-, tutkinta- tai tuomitsemismenettelyissä (mm. todiste 946).
+
+Lisäksi selvityksenä on esitetty muun ohella 30.10.2023 päivätty Suomesta Ranskaan osoitettu eurooppalainen tutkintamääräys (todisteessa 997B). Sillä on pyydetty toimittamaan Ranskan viranomaisten hallinnoimat tiedot ja keskustelut, jotka koskevat SkyECC-tunnusta ja -nimimerkkiä 9BFCRF ”El f”. Selvityksestä (todiste 997B) ilmenee, että Suomen esittämä eurooppalainen tutkintamääräys 30.10.2023 on pantu Ranskassa täytäntöön ja että tutkinnasta vastaava tuomari on 23.11.2023 antanut luvan käyttää Ranskasta lähetettyjä tietoja rikosprosessissa.
+4. Hovioikeuden arviointi
+Arvioitavana oleva tilanne poikkeaa tapauksesta, josta on annettu edellä mainittu korkeimman oikeuden ratkaisu KKO 2023:14. Keskeisenä erona on se, että SkyECC-viestien osalta kysymys ei ole ollut peiteoperaatiosta. Lisäksi ulkomailta saatu SkyECC-aineisto on alun perin saatu viranomaisten haltuun Euroopan unionin jäsenvaltiossa, josta sitä on toimitettu Suomen viranomaisille. SkyECC-viesteihin liittyneiden palvelinten sijainti on myös ollut tiedossa. Ne ovat sijainneet Ranskassa.
+Osa SkyECC-viesteistä ja niihin liittyvistä tiedoista on saatu Suomen viranomaisten haltuun Suomessa takavarikoituihin puhelimiin tehtyjen laite-etsintöjen myötä. Asiassa ei ole mitään perusteita tehdä johtopäätöstä, että tällainen aineisto olisi hankittu lainvastaisesti.
+Eurooppalaisista tutkintamääräyksistä esitetty selvitys on kattava SkyECC-tunnusten ja niihin liittyvien nimimerkkien osalta. Kyseisen aineiston perusteella hovioikeus katsoo selvitetyksi, että kaikki ulkomailta saadut SkyECC-viestit ja nimimerkkejä ynnä muuta koskeva muu ulkomailta saatu SkyECC-viesteihin liittyvä todistelu on saatu Suomen viranomaisten haltuun eurooppalaisten tutkintamääräysten perusteella Ranskasta. Asiassa on siten arvioitava, voidaanko tällainen aineisto katsoa hankitun oikeudenkäymiskaaren 17 luvun 25 §:n 3 momentissa tarkoitetulla tavalla lainvastaisesti. Tältä osin hovioikeus toteaa seuraavan.
+Asiassa esitetyn selvityksen perusteella suomalaiset viranomaiset eivät ole pyytäneet ulkomaisia viranomaisia suorittamaan telekuuntelua tai televalvontaa. Sen sijaan eurooppalaisilla tutkintamääräyksillä on pyydetty Ranskasta sellaisia tietoja tai todisteita, jotka ovat olleet määräysten täytäntöönpanovaltion eli Ranskan viranomaisten hallussa.
+Eurooppalaista tutkintamääräystä koskevasta keskinäiseen luottamukseen perustuvasta vastavuoroisuuden periaatteesta seuraa, ettei tutkintamääräystä Suomessa annettaessa ole kuulunut arvioida tai kyseenalaistaa sitä, olivatko ne toimenpiteet, joilla tiedot ja todisteet oli Ranskassa hankittu, olleet lainmukaisia täytäntöönpanovaltiossa eli Ranskassa. Euroopan unionissa rikosasioissa tehtävä oikeudellinen yhteistyö perustuu olettamaan, että perusoikeuksia kunnioitetaan kaikissa jäsenvaltioissa.
+Asiassa ei ole ilmennyt minkäänlaisia viitteitä siitä, että SkyECC-viestien hankkimisessa viranomaisten haltuun ei olisi noudatettu Ranskan lainsäädäntöä. Syyttäjän esittämä selvitys viittaa sen sijaan siihen, että palvelinten murtaminen ja viestien hankkiminen on tapahtunut tuomioistuimen luvalla ja valvonnassa perusoikeuksia asianmukaisesti kunnioittaen.
+Edellä todetusti tutkintamääräyksillä on pyydetty toimittamaan Ranskan viranomaisten hallussa ollutta tietoa tai aineistoa. Direktiivin 6 artiklan 1 kohdan b alakohdassa tarkoitettuna vastaavana kansallisena tapauksena on pidettävä sitä, että tietoja tai todisteita siirretään tutkinnasta toiseen. Suomen kansallisessa laissa ei säädetä, että jo olemassa olevien tietojen tai todisteiden luovuttaminen tutkinnasta toiseen edellyttäisi suomalaisen tuomioistuimen etukäteen antamaa lupaa, vaikka tietojen tai todisteiden tiedettäisiin olevan televalvonnalla tai telekuuntelulla saatuja. Tähän liittyen hovioikeus toteaa, että laissa säädetään mahdollisuudesta käyttää myös pakkokeinolain 10 luvun 55 §:ssä tarkoitettua ylimääräistä tietoa. Tällaisen tiedon käyttämisestä näyttönä päättää mainitun luvun 56 §:n 3 momentin mukaan tuomioistuin pääasian käsittelyn yhteydessä.
+Käräjäoikeuden päätöksestä 19.1.2022 ilmenevästi eurooppalaisiin tutkintamääräyksiin on lisäksi ollut mahdollisuus hakea muutosta. Myös jälkikäteinen muutoksenhakumahdollisuus on katsottava riittäväksi oikeussuojakeinoksi, kun otetaan huomioon, mitä edellä viitatuissa unionin tuomioistuimen ratkaisuissa on todettu (ks. tuomio 8.12.2020, C-584/19, 73 kohta ja tuomio 13.1.2021, C-414/20 PPU, 65 ja 69 kohta).
+Edellä todetuilla ja muutoin käräjäoikeuden päätöksistä ilmenevillä perusteilla asiassa ei ole ilmennyt aihetta katsoa, että SkyECC-viestit tai eurooppalaisilla tutkintamääräyksillä saatu muu aineisto olisi hankittu lainvastaisesti. Perustetta asettaa tällaista aineistoa hyödyntämiskieltoon ei ole.
+
+Päätöslauselma
+Hyödyntämiskieltoon asettamista koskevat vaatimukset hylätään.
+Asian ovat ratkaisseet:
+
+                            Hovioikeudenneuvos Markku Laine
+
+                            Hovioikeudenneuvos Jaakko Hirsto (puheenjohtaja)
+
+                            Hovioikeudenneuvos Pertti Lenkkeri
+
+Valmistelija:
+Hovioikeuden esittelijä Henna Erkkilä
+Ratkaisu on yksimielinen.
+Ratkaisuun ei saa erikseen hakea muutosta.
